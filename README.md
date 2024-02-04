@@ -5,5 +5,6 @@ Indonesian SMS Spam Detector is a natural language processing application that w
 <img width="673" src="https://user-images.githubusercontent.com/84224607/221553301-897ff3ba-4332-48c3-9f94-2d6ca811d673.jpg">
 
 ## Contributors
+- [Nadya Tyandra](https://www.linkedin.com/in/nadyatyandra/) - Machine Learning Engineer
 - [Randy Antonio](https://www.linkedin.com/in/randy-antonio/) - Machine Learning Engineer
 - [Farrel Rasyad](https://www.linkedin.com/in/farrel-rasyad-497923169/) - Machine Learning Engineer
